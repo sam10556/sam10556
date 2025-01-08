@@ -12,6 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://samyakdev.netlify.app/">
-    <img src="https://img.shields.io/badge/Protfolio-WebSite" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
