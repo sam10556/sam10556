@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/samyak-shah-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://www.linkedin.com/in/samyak-shah-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://samyakdev.netlify.app/">
+    <img src="https://img.shields.io/badge/Protfolio-WebSite" alt="Portfolio Badge"/>
   </a>
 </div>
