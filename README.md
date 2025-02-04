@@ -1,5 +1,6 @@
 # SamyakDev
 🌍  I am a FullStack Developer based in Gujrat, India.
+
 <br/>
 
 ### Skills
