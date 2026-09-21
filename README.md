@@ -1,5 +1,5 @@
 # SamyakDev
-🚀  I am an AI Automation & Growth Engineer (and FullStack Developer) based in Gujarat, India.
+🚀  I am an AI Automation & Growth Engineer based in Gujarat, India.
 <br/>
 
 I design and ship automation pipelines, agentic workflows and API integrations that make growth measurable and scalable, from paid acquisition to LLM-powered sales insights.
@@ -7,10 +7,12 @@ I design and ship automation pipelines, agentic workflows and API integrations t
 
 ### What I'm working on
 - 🧠  AI & Automation / Growth Engineer at **Ywork.ai** (Ninety North Software), UK-facing remote role
-- 🤖  LLM-driven analysis of sales call transcripts using Python and the Anthropic API
-- 🔗  Lead enrichment, HubSpot routing & real-time engagement tracking pipelines
+- 🌐  Building websites and web apps, from landing pages to full-stack products
+- 🤖  Creating AI agents and MCP servers to automate everyday workflows
+- 🔗  Engagement tracking pipelines and funnel tracking for real-time visibility into user behavior
 - 📊  Unifying Google, Meta & LinkedIn Ads data into one automated pipeline
 - ⚙️  Production webhooks and automations with CI/CD (GitHub Actions), logging and recovery logic
+- 🦾  RPA with Playwright & UiPath, with built-in error recovery and retry logic
 <br/>
 
 ### Skills
