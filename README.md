@@ -13,7 +13,6 @@ I design and ship automation pipelines, agentic workflows and API integrations t
 - ⚙️  Production webhooks and automations with CI/CD (GitHub Actions), logging and recovery logic
 <br/>
 
-
 ### Skills
  
 **Languages**<br/>
