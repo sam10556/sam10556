@@ -1,18 +1,18 @@
-# SamyakDev
-🚀  I am an AI Automation & Growth Engineer based in Gujarat, India.
+# Samyak Shah
+Growth Engineer
 <br/>
 
 I design and ship automation pipelines, agentic workflows and API integrations that make growth measurable and scalable, from paid acquisition to LLM-powered sales insights.
 <br/>
 
 ### What I'm working on
-- 🧠  AI & Automation / Growth Engineer at **Ywork.ai** (Ninety North Software), UK-facing remote role
-- 🌐  Building websites and web apps, from landing pages to full-stack products
-- 🤖  Creating AI agents and MCP servers to automate everyday workflows
-- 🔗  Engagement tracking pipelines and funnel tracking for real-time visibility into user behavior
-- 📊  Unifying Google, Meta & LinkedIn Ads data into one automated pipeline
-- ⚙️  Production webhooks and automations with CI/CD (GitHub Actions), logging and recovery logic
-- 🦾  RPA with Playwright & UiPath, with built-in error recovery and retry logic
+-  AI & Automation / Growth Engineer at **Ywork.ai**
+-  Building websites and web apps, from landing pages to full-stack products
+-  Creating AI agents and MCP servers to automate everyday workflows
+-  Engagement tracking pipelines and funnel tracking for real-time visibility into user behavior
+-  Unifying Google, Meta & LinkedIn Ads data into one automated pipeline
+-  Production webhooks and automations with CI/CD (GitHub Actions), logging and recovery logic
+-  RPA with Playwright & UiPath, with built-in error recovery and retry logic
 <br/>
 
 ### Skills
